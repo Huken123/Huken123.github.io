@@ -6,10 +6,28 @@
     <description>Recent content on Huken&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Aug 2019 07:05:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2019 08:08:52 +0000</lastBuildDate>
     
 	<atom:link href="https://Huken123.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>破解WIFI密码</title>
+      <link>https://Huken123.github.io/post/%E7%A0%B4%E8%A7%A3wifi%E5%AF%86%E7%A0%81/</link>
+      <pubDate>Sun, 11 Aug 2019 08:08:52 +0000</pubDate>
+      
+      <guid>https://Huken123.github.io/post/%E7%A0%B4%E8%A7%A3wifi%E5%AF%86%E7%A0%81/</guid>
+      <description>转载自酷安 @NCHR404 原链接:https://www.coolapk.com/feed/13117608?shareKey=M2NkYzg4MzkzOGM4NWQ0ZmNkYTg~&amp;amp;shareUid=2146247&amp;amp;shareFrom=com.coolapk.market_9.4.1 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕
+咕咕咕 大家好 我是一只小鸽子 我最喜欢鸽文章了呢 真好！
+GIAO 呀呼 请保持上一个教程中的那个窗口 就是我让你先别管的那个 别问我是那个 统一回复
+自！己！找！(暴躁) sudo aircrack-ng -w Desktop/wordlist.txt Desktop/handshake.cap
+// ircrack-ng -w &amp;lt;字典路径&amp;gt; &amp;lt;握手包路径&amp;gt;
+破解的速度取决于信号强的，CPU运算速度等等，但是最重要的，还是要看老王家的WIFI密码的强度，像123456这种基本上几秒钟就出来了 那么这个时候很多同学会问了，字典路径是啥？ 首先，各位需要了解的是，这个破解方法是暴力破解，事先设置好字典然后一个一个试。比如 字典里面的数值为 1 2 3 11 22 33 那么破解就根据顺序，先用密码 1 连接wifi，密码错误，那么就用2 3 11 22……很无脑，但是是最简单的破解方法
+这里我就不提供字典呢，大家可以自己去百度找字典，也可以： 安装crunch，输入
+apt-get install crunch
+安装完成后
+crunch  max  -t  -o  = 最小密码长度。  = 最大密码长度。  = 用于生成密码的字符集。  = 生成的密码的指定模式。  = 保存字典文件的路径。</description>
+    </item>
     
     <item>
       <title>错题笔记</title>

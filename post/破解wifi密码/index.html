@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>破解WIFI密码 - Huken&#39;s Blog</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta property="og:title" content="破解WIFI密码" />
+<meta property="og:description" content="转载自酷安 @NCHR404 原链接:https://www.coolapk.com/feed/13117608?shareKey=M2NkYzg4MzkzOGM4NWQ0ZmNkYTg~&amp;shareUid=2146247&amp;shareFrom=com.coolapk.market_9.4.1 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕
+咕咕咕 大家好 我是一只小鸽子 我最喜欢鸽文章了呢 真好！
+GIAO 呀呼 请保持上一个教程中的那个窗口 就是我让你先别管的那个 别问我是那个 统一回复
+自！己！找！(暴躁) sudo aircrack-ng -w Desktop/wordlist.txt Desktop/handshake.cap
+// ircrack-ng -w &lt;字典路径&gt; &lt;握手包路径&gt;
+破解的速度取决于信号强的，CPU运算速度等等，但是最重要的，还是要看老王家的WIFI密码的强度，像123456这种基本上几秒钟就出来了 那么这个时候很多同学会问了，字典路径是啥？ 首先，各位需要了解的是，这个破解方法是暴力破解，事先设置好字典然后一个一个试。比如 字典里面的数值为 1 2 3 11 22 33 那么破解就根据顺序，先用密码 1 连接wifi，密码错误，那么就用2 3 11 22……很无脑，但是是最简单的破解方法
+这里我就不提供字典呢，大家可以自己去百度找字典，也可以： 安装crunch，输入
+apt-get install crunch
+安装完成后
+crunch  max  -t  -o  = 最小密码长度。  = 最大密码长度。  = 用于生成密码的字符集。  = 生成的密码的指定模式。  = 保存字典文件的路径。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://Huken123.github.io/post/%E7%A0%B4%E8%A7%A3wifi%E5%AF%86%E7%A0%81/" />
+<meta property="article:published_time" content="2019-08-11T08:08:52&#43;00:00"/>
+<meta property="article:modified_time" content="2019-08-11T08:08:52&#43;00:00"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="破解WIFI密码"/>
+<meta name="twitter:description" content="转载自酷安 @NCHR404 原链接:https://www.coolapk.com/feed/13117608?shareKey=M2NkYzg4MzkzOGM4NWQ0ZmNkYTg~&amp;shareUid=2146247&amp;shareFrom=com.coolapk.market_9.4.1 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕 咕咕咕
+咕咕咕 大家好 我是一只小鸽子 我最喜欢鸽文章了呢 真好！
+GIAO 呀呼 请保持上一个教程中的那个窗口 就是我让你先别管的那个 别问我是那个 统一回复
+自！己！找！(暴躁) sudo aircrack-ng -w Desktop/wordlist.txt Desktop/handshake.cap
+// ircrack-ng -w &lt;字典路径&gt; &lt;握手包路径&gt;
+破解的速度取决于信号强的，CPU运算速度等等，但是最重要的，还是要看老王家的WIFI密码的强度，像123456这种基本上几秒钟就出来了 那么这个时候很多同学会问了，字典路径是啥？ 首先，各位需要了解的是，这个破解方法是暴力破解，事先设置好字典然后一个一个试。比如 字典里面的数值为 1 2 3 11 22 33 那么破解就根据顺序，先用密码 1 连接wifi，密码错误，那么就用2 3 11 22……很无脑，但是是最简单的破解方法
+这里我就不提供字典呢，大家可以自己去百度找字典，也可以： 安装crunch，输入
+apt-get install crunch
+安装完成后
+crunch  max  -t  -o  = 最小密码长度。  = 最大密码长度。  = 用于生成密码的字符集。  = 生成的密码的指定模式。  = 保存字典文件的路径。"/>
+<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,300italic,400italic|Raleway:500,100,300" rel="stylesheet">
+
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" /><script src="/js/main.js"></script>
+</head>
+
+<body>
+	<div class="container wrapper post">
+		<div class="header">
+	<h1 class="site-title">Huken&#39;s Blog</h1>
+	<div class="site-description"><nav class="nav social">
+			<ul class="flat"></ul>
+		</nav>
+	</div>
+
+	<nav class="nav">
+		<ul class="flat">
+			
+		</ul>
+	</nav>
+</div>
+
+
+		<div class="post-header">
+			<h1 class="title">破解WIFI密码</h1>
+			<div class="meta">Posted at &mdash; Aug 11, 2019</div>
+		</div>
+
+		<div class="markdown">
+			
+
+<h3 id="转载自酷安-nchr404">转载自酷安 @NCHR404</h3>
+
+<hr />
+
+<h4 id="原链接-https-www-coolapk-com-feed-13117608-sharekey-m2nkyzg4mzkzogm4nwq0zmnkytg-shareuid-2146247-sharefrom-com-coolapk-market-9-4-1">原链接:<a href="https://www.coolapk.com/feed/13117608?shareKey=M2NkYzg4MzkzOGM4NWQ0ZmNkYTg~&amp;shareUid=2146247&amp;shareFrom=com.coolapk.market_9.4.1">https://www.coolapk.com/feed/13117608?shareKey=M2NkYzg4MzkzOGM4NWQ0ZmNkYTg~&amp;shareUid=2146247&amp;shareFrom=com.coolapk.market_9.4.1</a></h4>
+
+<p>咕咕咕
+咕咕咕
+咕咕咕
+咕咕咕
+咕咕咕
+咕咕咕
+咕咕咕
+咕咕咕
+咕咕咕
+咕咕咕
+咕咕咕
+咕咕咕
+咕咕咕</p>
+
+<h2 id="咕咕咕">咕咕咕</h2>
+
+<p>大家好
+我是一只小鸽子
+我最喜欢鸽文章了呢
+真好！</p>
+
+<h2 id="giao-呀呼">GIAO 呀呼</h2>
+
+<p>请保持上一个教程中的那个窗口
+就是我让你先别管的那个
+别问我是那个
+统一回复</p>
+
+<h2 id="自-己-找-暴躁">自！己！找！(暴躁)</h2>
+
+<p>sudo aircrack-ng -w Desktop/wordlist.txt Desktop/handshake.cap</p>
+
+<p>// ircrack-ng -w &lt;字典路径&gt; &lt;握手包路径&gt;</p>
+
+<h2 id="破解的速度取决于信号强的-cpu运算速度等等-但是最重要的-还是要看老王家的wifi密码的强度-像123456这种基本上几秒钟就出来了">破解的速度取决于信号强的，CPU运算速度等等，但是最重要的，还是要看老王家的WIFI密码的强度，像123456这种基本上几秒钟就出来了</h2>
+
+<p>那么这个时候很多同学会问了，字典路径是啥？
+首先，各位需要了解的是，这个破解方法是暴力破解，事先设置好字典然后一个一个试。比如
+字典里面的数值为 1 2 3 11 22 33
+那么破解就根据顺序，先用密码 1 连接wifi，密码错误，那么就用2 3 11 22……很无脑，但是是最简单的破解方法</p>
+
+<h2 id="这里我就不提供字典呢-大家可以自己去百度找字典-也可以">这里我就不提供字典呢，大家可以自己去百度找字典，也可以：</h2>
+
+<p>安装crunch，输入</p>
+
+<p>apt-get install crunch</p>
+
+<p>安装完成后</p>
+
+<p>crunch <min> max<max> <characterset> -t <pattern> -o <output filename></p>
+
+<p><min> = 最小密码长度。 
+<max> = 最大密码长度。 
+<characterset> = 用于生成密码的字符集。 
+<pattern> = 生成的密码的指定模式。 
+<outputfile> = 保存字典文件的路径。</p>
+
+<p>注： pattern中可以使用的特殊标记字符(ex.3) 
+[%]插入数字 
+[@] 插入小写字母 
+[,] 插入大写字母 
+[^] 插入符号
+如果你知道目标的生日是0728（7月28日），并且认为他们以自己的密码包含他们生日，则可以生成一个以0728为结尾的密码列表，方法为@@@@@@@0728。 该字最多可生成11个字符（7个变量和4个固定）密码，然后全部都以0728结尾</p>
+
+<h1 id="crunch-8-8-0123456789-o-desktop-wordlist-txt">crunch 8 8 0123456789 -o Desktop/wordlist.txt</h1>
+
+<h2 id="字典中只包含长度为8的0-9字符集">字典中只包含长度为8的0-9字符集</h2>
+
+<p>生成完字典后，就可以拿来用了
+输入最开头的代码
+sudo aircrack-ng -w Desktop/wordlist.txt Desktop/handshake.cap
+之后的窗口会显示破解字典的进度，这里我就不上图了
+如果破解成功，会提示如图</p>
+
+<p>红圈圈里的就是密码</p>
+
+<h2 id="以下是注意事项-不看的同学100-失败">以下是注意事项，不看的同学100%失败</h2>
+
+<p>1监听窗口和破解窗口都必须一直开着且运行
+2破解开始前要确保在监听的情况下，捕捉到连接动作
+就是说，有人连接WiFi且你在监听
+3监听必须开抓包，并且破解的那行代码的最后一小段指向抓包抓下来的cap文件，文件名可能有所不同，请自己衡量
+4wpa/wp2破解成功率不高，实际情况看缘分</p>
+
+<h2 id="5-下一期讲windows端利用gpu破解wifi-想看的同学别忘了关注-收藏">5 下一期讲windows端利用GPU破解wifi，想看的同学别忘了关注+收藏</h2>
+
+<p>拜了个拜
+@八百标兵 @酷安小编 头条一波哈</p>
+
+		</div><div id="disqus_thread"></div>
+<script type="text/javascript">
+	(function () {
+		
+		
+		if (window.location.hostname == "localhost")
+			return;
+
+		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		var disqus_shortname = '';
+		dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
+		Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+	<div class="footer wrapper">
+	<nav class="nav">
+		<div><a href="https://github.com/vividvilla/ezhil">Ezhil theme</a> | Built with <a href="https://gohugo.io">Hugo</a></div>
+	</nav>
+</div>
+
+
+</body>
+</html>
