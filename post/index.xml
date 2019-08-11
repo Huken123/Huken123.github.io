@@ -6,10 +6,19 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Aug 2019 05:12:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2019 05:25:36 +0000</lastBuildDate>
     
 	<atom:link href="https://Huken123.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test</title>
+      <link>https://Huken123.github.io/post/test/</link>
+      <pubDate>Sun, 11 Aug 2019 05:25:36 +0000</pubDate>
+      
+      <guid>https://Huken123.github.io/post/test/</guid>
+      <description>A newly blog need to test</description>
+    </item>
     
     <item>
       <title>测试</title>
