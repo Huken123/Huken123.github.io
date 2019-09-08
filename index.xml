@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 28 Aug 2019 23:49:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2019 07:13:21 +0000</lastBuildDate>
     
 	<atom:link href="https://Huken123.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test</title>
+      <link>https://Huken123.github.io/post/test/</link>
+      <pubDate>Sun, 08 Sep 2019 07:13:21 +0000</pubDate>
+      
+      <guid>https://Huken123.github.io/post/test/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>成语800</title>
@@ -91,15 +100,6 @@
       
       <guid>https://Huken123.github.io/post/%E9%9B%A8%E5%90%8E%E6%9C%89%E6%84%9F/</guid>
       <description>你见过长久的爱情吗？ 那需要相互的信任， 以及一定的距离。 因为， 没有信任， 或是距离太近， 便会产生过重的压力， 和， 猜忌。 这， 便为裂痕埋下了祸根。</description>
-    </item>
-    
-    <item>
-      <title>孤独</title>
-      <link>https://Huken123.github.io/post/%E5%AD%A4%E7%8B%AC/</link>
-      <pubDate>Fri, 05 Jul 2019 22:16:10 +0000</pubDate>
-      
-      <guid>https://Huken123.github.io/post/%E5%AD%A4%E7%8B%AC/</guid>
-      <description>文／影弦 2019.07.05 我常常脱下眼镜， 只为朦胧定格时间； 我常常在黄昏下眺望， 只为追逐西下的斜阳； 如果我昏昏欲睡， 那也许是我彻夜未眠； 如果我独坐窗畔， 那也</description>
     </item>
     
   </channel>

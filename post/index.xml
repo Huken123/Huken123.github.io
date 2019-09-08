@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 25 Aug 2019 10:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2019 07:13:21 +0000</lastBuildDate>
     
 	<atom:link href="https://Huken123.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test</title>
+      <link>https://Huken123.github.io/post/test/</link>
+      <pubDate>Sun, 08 Sep 2019 07:13:21 +0000</pubDate>
+      
+      <guid>https://Huken123.github.io/post/test/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>数学错题</title>
@@ -91,15 +100,6 @@
       
       <guid>https://Huken123.github.io/post/%E5%AD%A4%E7%8B%AC/</guid>
       <description>文／影弦 2019.07.05 我常常脱下眼镜， 只为朦胧定格时间； 我常常在黄昏下眺望， 只为追逐西下的斜阳； 如果我昏昏欲睡， 那也许是我彻夜未眠； 如果我独坐窗畔， 那也</description>
-    </item>
-    
-    <item>
-      <title>无题</title>
-      <link>https://Huken123.github.io/post/%E6%97%A0%E9%A2%982/</link>
-      <pubDate>Mon, 31 Dec 2018 23:58:33 +0000</pubDate>
-      
-      <guid>https://Huken123.github.io/post/%E6%97%A0%E9%A2%982/</guid>
-      <description>唔，怎么说呢，也就在这么一个房间里吧，还是那样子，没变，还是以往地那么乱。外面的小孩子这个时候也兴奋起来了，寒冷的夜晚也有丝温暖。挺热闹的，</description>
     </item>
     
   </channel>
