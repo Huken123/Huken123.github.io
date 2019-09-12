@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 12 Sep 2019 22:54:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2019 23:37:10 +0000</lastBuildDate>
     
 	<atom:link href="https://Huken123.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>隐藏的留言板-随心即写</title>
+      <link>https://Huken123.github.io/post/%E9%9A%90%E8%97%8F%E7%9A%84%E7%95%99%E8%A8%80%E6%9D%BF/</link>
+      <pubDate>Thu, 12 Sep 2019 23:37:10 +0000</pubDate>
+      
+      <guid>https://Huken123.github.io/post/%E9%9A%90%E8%97%8F%E7%9A%84%E7%95%99%E8%A8%80%E6%9D%BF/</guid>
+      <description>前言 这里是一个留言板，或者说是一个隐藏的回复。 不要意外ヽ(≧Д≦)ノ 因为有些事情，我不敢明说，也不会明说， 因为我害怕看到你的回复。 所以，就在</description>
+    </item>
     
     <item>
       <title>中秋节</title>
@@ -91,15 +100,6 @@
       
       <guid>https://Huken123.github.io/post/%E9%94%99%E9%A2%98%E7%AC%94%E8%AE%B0/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>无题</title>
-      <link>https://Huken123.github.io/post/%E6%97%A0%E9%A2%985/</link>
-      <pubDate>Fri, 12 Jul 2019 05:23:02 +0000</pubDate>
-      
-      <guid>https://Huken123.github.io/post/%E6%97%A0%E9%A2%985/</guid>
-      <description>这篇文章，没有完成，也不必完成了 或许，未知的，才是美丽吧 总得到了夜晚，夜深人静的时候，才会有把东西好好记录下来的兴致。并不是矫情，而是在夜里</description>
     </item>
     
   </channel>
